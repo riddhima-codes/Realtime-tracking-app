@@ -51,8 +51,7 @@ http://localhost:3000
 
 ## Project Structure
 
-`
-
+```
 Realtime-tracking-app
 │
 ├── public
@@ -66,8 +65,7 @@ Realtime-tracking-app
 ├── package.json
 ├── package-lock.json
 └── README.md
-
-`
+```
 
 
 ## Author
